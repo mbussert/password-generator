@@ -3,7 +3,7 @@
 ### GitHub: [mbussert](https://github.com/mbussert) | Email: mbussert@gmail.com
 
 ## Links:
-Deployed application:   
+Deployed application: https://mbussert.github.io/password-generator/  
 GitHub Repository: https://github.com/mbussert/password-generator
 
 ## Description:
